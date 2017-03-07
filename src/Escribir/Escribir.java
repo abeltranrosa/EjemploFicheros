@@ -15,7 +15,7 @@ public class Escribir {
             f.println("con varias lineas");
             f.println("de texto");
         }catch (FileNotFoundException ex){
-            System.out.println("Error 4 " + ex.getMessage()); 
+            System.out.println("Error 4 " + ex.getMessage());  
         }
         finally{
             f.close();
