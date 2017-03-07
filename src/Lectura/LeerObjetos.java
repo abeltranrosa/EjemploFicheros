@@ -1,4 +1,4 @@
-package Lectura;
+package Lectura; 
 
 import ejemploficheros.Xogadores.Xogador;
 import java.io.File;
