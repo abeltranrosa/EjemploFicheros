@@ -1,4 +1,4 @@
-package ejemploficheros.Xogadores;
+package ejemploficheros.Xogadores; 
 
 public class Xogador {
     private String nombre;
